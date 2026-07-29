@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Authors></Authors>
     <Company></Company>
-    <Version>1.7.1.13</Version>
+    <Version>1.7.1.14</Version>
     <Description>自訂十字快捷欄的外觀與配置。</Description>
     <Copyright></Copyright>
     <PackageProjectUrl>https://github.com/cycleapple/CrossUp</PackageProjectUrl>
@@ -38,8 +38,8 @@
 	  <PackageIcon>icon.png</PackageIcon>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
 	  <RepositoryUrl>https://github.com/cycleapple/CrossUp</RepositoryUrl>
-	  <FileVersion>1.7.1.13</FileVersion>
-	  <AssemblyVersion>1.7.1.13</AssemblyVersion>
+	  <FileVersion>1.7.1.14</FileVersion>
+	  <AssemblyVersion>1.7.1.14</AssemblyVersion>
 	  <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
 	  <IsPublishable>True</IsPublishable>
   </PropertyGroup>
@@ -73,6 +73,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="UI\Localization\ja.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="UI\Localization\zh.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
