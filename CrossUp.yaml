@@ -1,12 +1,12 @@
 name: CrossUp
 author: ItsBexy
 description: |-
-  This plugin provides various customizations for the look and feel of the Cross Hotbar.
-  
-  -Split up the left/right hotbars
-  -Display Expanded Hold Controls Separately
-  -Customize colors and element positions
-  -Greater control over which sets your extra bars are mapped to
-punchline: Customize the Cross Hotbar!
-repo_url: https://github.com/ItsBexy/CrossUp
+  提供多種十字快捷欄外觀與操作方式自訂功能。
+
+  - 分離左右兩側快捷欄
+  - 分別顯示擴展按住操作
+  - 自訂色彩與介面元素位置
+  - 更精確地指定額外快捷欄對應的套組
+punchline: 自訂十字快捷欄的外觀與配置。
+repo_url: https://github.com/cycleapple/CrossUp
 dalamud_api_level: 13

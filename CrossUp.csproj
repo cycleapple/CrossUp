@@ -3,14 +3,14 @@
   <PropertyGroup>
     <Authors></Authors>
     <Company></Company>
-    <Version>1.7.1.1</Version>
-    <Description>Customize the Cross Hotbar!</Description>
+    <Version>1.7.1.13</Version>
+    <Description>自訂十字快捷欄的外觀與配置。</Description>
     <Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/ItsBexy/CrossUp</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/cycleapple/CrossUp</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
+    <TargetFramework>net9.0-windows</TargetFramework>
     <Platforms>x64</Platforms>
     <Nullable>enable</Nullable>
     <LangVersion>preview</LangVersion>
@@ -37,9 +37,9 @@
 	  <BaseOutputPath></BaseOutputPath>
 	  <PackageIcon>icon.png</PackageIcon>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
-	  <RepositoryUrl>https://github.com/ItsBexy/CrossUp</RepositoryUrl>
-	  <FileVersion>1.7.1.1</FileVersion>
-	  <AssemblyVersion>1.7.1.1</AssemblyVersion>
+	  <RepositoryUrl>https://github.com/cycleapple/CrossUp</RepositoryUrl>
+	  <FileVersion>1.7.1.13</FileVersion>
+	  <AssemblyVersion>1.7.1.13</AssemblyVersion>
 	  <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
 	  <IsPublishable>True</IsPublishable>
   </PropertyGroup>
