@@ -9,4 +9,4 @@ description: |-
   - 更精確地指定額外快捷欄對應的套組
 punchline: 自訂十字快捷欄的外觀與配置。
 repo_url: https://github.com/cycleapple/CrossUp
-dalamud_api_level: 13
+dalamud_api_level: 14
